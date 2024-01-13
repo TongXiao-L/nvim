@@ -1,6 +1,3 @@
 return {
-    "hiphish/rainbow-delimiters.nvim",
-    config = function()
-        require("rainbow-delimiters").setup({})
-    end
+    "hiphish/rainbow-delimiters.nvim"
 }
