@@ -1,0 +1,7 @@
+{
+  "lazy.nvim": { "branch": "main", "commit": "96584866b9c5e998cbae300594d0ccfd0c464627" },
+  "lualine.nvim": { "branch": "master", "commit": "566b7036f717f3d676362742630518a47f132fff" },
+  "nvim-web-devicons": { "branch": "master", "commit": "584038666b0d8124d452a2e8ea9e38e6d6e56490" },
+  "tokyonight.nvim": { "branch": "main", "commit": "f247ee700b569ed43f39320413a13ba9b0aef0db" },
+  "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" }
+}
