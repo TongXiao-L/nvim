@@ -1,6 +1,6 @@
 return {
-    "dstein64/nvim-scrollview",
+    "petertriho/nvim-scrollbar",
     config = function()
-        require("scrollview").setup({})
+        require("scrollbar").setup({})
     end
 }
