@@ -11,7 +11,8 @@ return {
             f = {
                 name = " 󰈔 File",
                 s = { ":w<CR>", " 󰆓 Save" },
-                q = { ":wq<CR>", " 󰸧 Save & Quit" }
+                q = { ":wq<CR>", " 󰸧 Save & Quit" },
+                t = { ":NvimTreeToggle<CR>", " 󰙅 File Tree" }
             },
             P = { ":Lazy<CR>", " 󰐱 Plugin" },
             Q = { ":q<CR>", " 󰗼 Quit" }
