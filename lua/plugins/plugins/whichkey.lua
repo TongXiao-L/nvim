@@ -9,12 +9,12 @@ return {
         require("which-key").setup({})
         require("which-key").register({
             f = {
-                name = " 󰈔 文件",
-                s = { ":w<CR>", " 󰆓 保存" },
-                q = { ":wq<CR>", " 󰸧 保存并退出" }
+                name = " 󰈔 File",
+                s = { ":w<CR>", " 󰆓 Save" },
+                q = { ":wq<CR>", " 󰸧 Save & Quit" }
             },
-            P = { ":Lazy<CR>", " 󰐱 插件" },
-            Q = { ":q<CR>", " 󰗼 退出" }
+            P = { ":Lazy<CR>", " 󰐱 Plugin" },
+            Q = { ":q<CR>", " 󰗼 Quit" }
         }, { prefix = "<leader>" })
     end
 }
